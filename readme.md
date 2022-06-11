@@ -10,15 +10,17 @@ git clone github.com/ANMP0042/wskey2Cookie
 cd path/wskey2Cookie
 ```
 
-3 下载依赖
-```go
-go mod tidy
-```
-4 填写wskey到wskey.txt中
+3 填写wskey到wskey.txt中
 ```
 pin=x;wskey=x;
 ```
-5 把自己搭建的sign配置到src/conf.yaml sign中
+
+4 把自己搭建的sign配置到src/conf.yaml sign中
+
+5 下载依赖
+```go
+go mod tidy
+```
 
 6 启动
 ```go
