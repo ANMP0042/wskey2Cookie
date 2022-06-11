@@ -1,0 +1,12 @@
+base:
+  api_url: https://api.m.jd.com/client.action
+  function_id: genToken
+  body: '{"to":"https://plogin.m.jd.com/jd-mlogin/static/html/appjmp_blank.html"}'
+#  redirect_url: https://un.m.jd.com/cgi-bin/app/appjmp?tokenKey=*&to=https://plogin.m.jd.com/jd-mlogin/static/html/appjmp_blank.html
+  redirect_url: https://plogin.m.jd.com/jd-mlogin/static/html/appjmp_blank.html
+sign:
+  gateway: http://43.128.163.78
+  port: :5899
+  path: /api/jd/sign
+
+  
