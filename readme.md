@@ -6,7 +6,6 @@ git clone github.com/ANMP0042/wskey2Cookie
 ```
 2 cd到根目录
 ```
-
 cd path/wskey2Cookie
 ```
 
