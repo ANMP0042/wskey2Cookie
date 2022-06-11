@@ -1,4 +1,4 @@
-                    某d wskey更换成cookie 
+# 某d wskey生成cookie
 
 1 使用
 ```
@@ -25,7 +25,7 @@ go run main.go
 ```
 
 注：运行后会把信息会写入到根目录下的cookie.txt  
-   正确：cookie: pt_pin=app_openxxx;pt_key=xxx;  
-   错误：err：错误信息
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;正确：cookie: pt_pin=app_openxxx;pt_key=xxx;  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;错误：err：错误信息
 
-巨人的肩膀：wspt.py
+### 巨人的肩膀：wspt.py
