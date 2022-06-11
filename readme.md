@@ -9,6 +9,7 @@ git clone github.com/ymboom0042/wskey2Cookie
 
 cd path/wskey2Cookie
 ```
+
 3 下载依赖
 ```go
 go mod tidy
