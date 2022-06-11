@@ -20,7 +20,7 @@ func main() {
 	}
 
 	wskey := string(b)
-	if string(wskey) == "" {
+	if wskey == "" {
 		panic("err := wskey is null")
 	}
 
