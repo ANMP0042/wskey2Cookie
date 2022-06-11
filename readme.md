@@ -2,7 +2,7 @@
 
 1 使用
 ```
-git clone github.com/ymboom0042/wskey2Cookie
+git clone github.com/ANMP0042/wskey2Cookie
 ```
 2 cd到根目录
 ```
